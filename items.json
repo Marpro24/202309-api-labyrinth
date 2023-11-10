@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Ambrosius",
+      "world": "human",
+      "isFriend": true
+    },
+    {
+      "id": 2,
+      "name": "Nipper Stick",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 3,
+      "name": "Goblin",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 4,
+      "name": "Sir Didymus",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 5,
+      "name": "Hoggle",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 6,
+      "name": "Goblin King",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 7,
+      "name": "The Worm",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 8,
+      "name": "The Junk Lady",
+      "world": "Labyrinth",
+      "isFriend": true
+    },
+    {
+      "id": 9,
+      "name": "Sarah",
+      "world": "human",
+      "isFriend": true
+    },
+    {
+      "id": 10,
+      "name": "The Wiseman",
+      "world": "Labyrinth",
+      "isFriend": true
+    }
+  ]
+}
