@@ -2,8 +2,8 @@
   "characters": [
     {
       "id": 1,
-      "name": "Ambrosius",
-      "world": "human",
+      "name": "Goblin King",
+      "world": "Human",
       "isFriend": true,
       "image": "https://raw.githubusercontent.com/Marpro24/202309-api-labyrinth/main/images/id1.webp"
     },
@@ -37,8 +37,8 @@
     },
     {
       "id": 6,
-      "name": "Goblin King",
-      "world": "Labyrinth",
+      "name": "Ambrosius",
+      "world": "Human",
       "isFriend": true,
       "image": "https://raw.githubusercontent.com/Marpro24/202309-api-labyrinth/main/images/id6.webp"
     },
@@ -59,7 +59,7 @@
     {
       "id": 9,
       "name": "Sarah",
-      "world": "human",
+      "world": "Human",
       "isFriend": true,
       "image": "https://raw.githubusercontent.com/Marpro24/202309-api-labyrinth/main/images/id9.webp"
     },
